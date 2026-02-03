@@ -8,3 +8,4 @@ I’ve worked on internal platforms and customer-facing systems that moved teams
 and disconnected tools into centralized, reliable applications. My experience spans the full lifecycle
 from understanding operational needs to building and refining production-ready solutions.
 
+[LinkedIn](https://www.linkedin.com/in/samimakiye) · 📧 makiyesami@gmail.com
