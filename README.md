@@ -9,3 +9,11 @@ and disconnected tools into centralized, reliable applications. My experience sp
 from understanding operational needs to building and refining production-ready solutions.
 
 [LinkedIn](https://www.linkedin.com/in/samimakiye) · 📧 makiyesami@gmail.com
+
+
+## What I Work On
+
+- Designing and building full-stack systems used by real users across organizations with complex operational needs
+- Automating workflows to reduce manual effort, minimize errors, and improve visibility for decision-making
+- Developing reliable, scalable platforms that support daily operations and grow with organizational demand
+- Working with startups and small businesses to translate business goals into professional digital products that showcase services and drive engagement
